@@ -28,7 +28,7 @@
     <AkkaVersion>1.4.31</AkkaVersion>
     <AkkatectureMultiNodeSharedVersion>0.5.2</AkkatectureMultiNodeSharedVersion>
     <XunitVersion>2.4.1</XunitVersion>
-    <XunitRunnerVSVersion>2.4.3</XunitRunnerVSVersion>
+    <XunitRunnerVSVersion>2.4.4</XunitRunnerVSVersion>
     <XunitRunnerUtilityVersion>2.4.1</XunitRunnerUtilityVersion>
     <CoverletMSBuildVersion>3.1.0</CoverletMSBuildVersion>
     <FluentAssertionsVersion>5.10.3</FluentAssertionsVersion>
